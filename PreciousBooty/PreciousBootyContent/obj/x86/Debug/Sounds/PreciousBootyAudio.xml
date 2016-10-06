@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 2988459864;
+    Bank Last Revised High = 30285540;
+
+    Wave
+    {
+        Name = flintlock_fire;
+        File = flintlock_fire.wav;
+        Build Settings Last Modified Low = 2140227899;
+        Build Settings Last Modified High = 30285536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 248832;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1025594146;
+            Last Modified High = 30285536;
+        }
+    }
+
+    Wave
+    {
+        Name = flintlock_fire_3;
+        File = flintlock_fire_3.wav;
+        Build Settings Last Modified Low = 2140247900;
+        Build Settings Last Modified High = 30285536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 248832;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1359173225;
+            Last Modified High = 30285536;
+        }
+    }
+
+    Wave
+    {
+        Name = flintlock_firedelay;
+        File = flintlock_firedelay.wav;
+        Build Settings Last Modified Low = 2140247900;
+        Build Settings Last Modified High = 30285536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 276480;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1603727213;
+            Last Modified High = 30285536;
+        }
+    }
+
+    Wave
+    {
+        Name = flintlock_firedelay_3;
+        File = flintlock_firedelay_3.wav;
+        Build Settings Last Modified Low = 2140257901;
+        Build Settings Last Modified High = 30285536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 48000;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 276480;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1816899406;
+            Last Modified High = 30285536;
+        }
+    }
+
+    Wave
+    {
+        Name = treasure;
+        File = treasure.wav;
+        Build Settings Last Modified Low = 2140267902;
+        Build Settings Last Modified High = 30285536;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 16128;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2815145600;
+            Last Modified High = 30263275;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion;
+        File = explosion.wav;
+        Build Settings Last Modified Low = 2922326081;
+        Build Settings Last Modified High = 30285540;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 46;
+            Play Region Length = 240860;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1790309120;
+            Last Modified High = 30263280;
+        }
+    }
+
+    Wave
+    {
+        Name = snake;
+        File = snake.wav;
+        Build Settings Last Modified Low = 2922336082;
+        Build Settings Last Modified High = 30285540;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 70;
+            Play Region Length = 319072;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2225196207;
+            Last Modified High = 30285540;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

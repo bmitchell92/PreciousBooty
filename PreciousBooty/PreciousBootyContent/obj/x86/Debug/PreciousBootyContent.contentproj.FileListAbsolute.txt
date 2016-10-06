@@ -1,0 +1,5 @@
+D:\PreciousBooty\PreciousBooty\PreciousBootyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett\SkyDrive\PreciousBooty\PreciousBooty\PreciousBootyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brett\SkyDrive\PreciousBooty\PreciousBooty\PreciousBootyContent\obj\x86\Debug\Sounds\PreciousBootyAudio.xml
+C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\obj\x86\Debug\Sounds\PreciousBootyAudio.xml

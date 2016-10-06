@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Create Face</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\Models\ocean.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>10235.8477 -14.0478973 -10222.7607 -10210.2227 -13.9916 -10215.5732 -10249.457 -13.9662476 10231.2393 10235.8477 -14.013504 10243.1221</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 2 1 3</Indices>
+        <Vertices>
+          <PositionIndices>0 1 2 3</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">2.53042072E-06 1 -1.45757986E-06 2.53029157E-06 1 -1.235068E-06 2.456135E-06 1 -1.38355165E-06 2.307693E-06 1 -1.45800732E-06</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">127.753906 -0.044921875 -0.000942409039 3.09869647E-05 -0.24609375 127.88076 127.753906 127.955078</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>ocean.jpg</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\Models\ocean.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\textures\ocean.jpg</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

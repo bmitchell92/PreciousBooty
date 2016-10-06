@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>Create Face</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\Models\diamond.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>0.00836125948 1.05734 -0.004842585 0.912819 2.462038 -0.004842585 0.0114194918 2.45528746 0.8847825 0.00836125948 1.05734 -0.004842585 -0.7460786 2.455236 0.0008626096 0.00836125948 2.4619875 -0.7041923 0.00836125948 3.17929029 -0.004842585 0.912819 2.462038 -0.004842585 0.00836125948 2.4619875 -0.7041923 0.00836125948 3.17929029 -0.004842585 -0.7460786 2.455236 0.0008626096 0.0114194918 2.45528746 0.8847825 0.0114194918 2.45528746 0.8847825 0.912819 2.462038 -0.004842585 0.00836125948 3.17929029 -0.004842585 0.0114194918 2.45528746 0.8847825 -0.7460786 2.455236 0.0008626096 0.00836125948 1.05734 -0.004842585 0.00836125948 2.4619875 -0.7041923 -0.7460786 2.455236 0.0008626096 0.00836125948 3.17929029 -0.004842585 0.00836125948 2.4619875 -0.7041923 0.912819 2.462038 -0.004842585 0.00836125948 1.05734 -0.004842585</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 5 4 3 8 7 6 11 10 9 14 13 12 17 16 15 20 19 18 23 22 21</Indices>
+        <Vertices>
+          <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.641322 -0.41293484 0.6466768 0.641322 -0.41293484 0.6466768 0.641322 -0.41293484 0.6466768 -0.6398506 -0.342517555 -0.687948346 -0.6398506 -0.342517555 -0.687948346 -0.6398506 -0.342517555 -0.687948346 0.484333962 0.610746861 -0.6264255 0.484333962 0.610746861 -0.6264255 0.484333962 0.610746861 -0.6264255 -0.594006836 0.622945666 0.5090133 -0.594006836 0.622945666 0.5090133 -0.594006836 0.622945666 0.5090133 0.524412036 0.6612855 0.5363707 0.524412036 0.6612855 0.5363707 0.524412036 0.6612855 0.5363707 -0.701945066 -0.3812926 0.6015722 -0.701945066 -0.3812926 0.6015722 -0.701945066 -0.3812926 0.6015722 -0.5596939 0.57850647 -0.593357444 -0.5596939 0.57850647 -0.593357444 -0.5596939 0.57850647 -0.593357444 0.5691523 -0.3664661 -0.736049056 0.5691523 -0.3664661 -0.736049056 0.5691523 -0.3664661 -0.736049056</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>diamond</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\Models\diamond.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\textures\diamond.bmp</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

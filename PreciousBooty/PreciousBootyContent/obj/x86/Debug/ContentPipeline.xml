@@ -1,0 +1,1073 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\AdrenalineBar.png</Source>
+      <Name>Sprites\AdrenalineBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\AdrenalineBar.xnb</Output>
+      <Time>2013-02-12T09:50:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\needle.png</Source>
+      <Name>Sprites\needle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\needle.xnb</Output>
+      <Time>2013-02-12T09:54:03-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\barFilling.png</Source>
+      <Name>Sprites\barFilling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\barFilling.xnb</Output>
+      <Time>2013-02-13T09:30:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HealthBar.png</Source>
+      <Name>Sprites\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\HealthBar.xnb</Output>
+      <Time>2013-02-13T09:27:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\dead.png</Source>
+      <Name>Sprites\dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\dead.xnb</Output>
+      <Time>2013-03-08T09:17:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cursor.png</Source>
+      <Name>Sprites\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\cursor.xnb</Output>
+      <Time>2013-03-05T09:58:21-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\pause.png</Source>
+      <Name>Sprites\pause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\pause.xnb</Output>
+      <Time>2013-03-05T10:04:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\mainmenu.png</Source>
+      <Name>Sprites\mainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\mainmenu.xnb</Output>
+      <Time>2013-03-06T10:46:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Instructions1.png</Source>
+      <Name>Sprites\Instructions1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\Instructions1.xnb</Output>
+      <Time>2013-03-06T11:22:47-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Instructions2.png</Source>
+      <Name>Sprites\Instructions2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\Instructions2.xnb</Output>
+      <Time>2013-03-06T10:40:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Instructions3.png</Source>
+      <Name>Sprites\Instructions3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\Instructions3.xnb</Output>
+      <Time>2013-03-07T09:02:17-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\crosshair.png</Source>
+      <Name>Sprites\crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\crosshair.xnb</Output>
+      <Time>2013-03-06T21:09:26.8272972-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GameOver.png</Source>
+      <Name>Sprites\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Sprites\GameOver.xnb</Output>
+      <Time>2013-03-07T09:28:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.spritefont</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2013-02-13T10:21:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skySphere.fbx</Source>
+      <Name>Models\skySphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\skySphere.xnb</Output>
+      <Time>2013-02-22T08:52:48-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\skySphere_0.xml</Key>
+        <Value>2013-03-13T20:24:10.5218176-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\skydome_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ocean.fbx</Source>
+      <Name>Models\ocean</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\ocean.xnb</Output>
+      <Time>2013-02-22T08:56:53-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ocean_0.xml</Key>
+        <Value>2013-03-13T20:24:12.4909302-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\ocean_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\palmtree.fbx</Source>
+      <Name>Models\palmtree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\palmtree.xnb</Output>
+      <Time>2013-02-22T09:31:30-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\palmtree_0.xml</Key>
+        <Value>2013-03-13T20:24:13.3229778-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\palmtree_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\coin.fbx</Source>
+      <Name>Models\coin</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\coin.xnb</Output>
+      <Time>2013-02-26T09:11:48-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\coin_0.xml</Key>
+        <Value>2013-03-13T20:24:13.8550083-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\Coin_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\diamond.fbx</Source>
+      <Name>Models\diamond</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\diamond.xnb</Output>
+      <Time>2013-02-26T09:55:03-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\diamond_0.xml</Key>
+        <Value>2013-03-13T20:24:14.3690377-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\diamond_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\treasurechest.fbx</Source>
+      <Name>Models\treasurechest</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\treasurechest.xnb</Output>
+      <Time>2013-02-26T10:19:51-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\treasurechest_0.xml</Key>
+        <Value>2013-03-13T20:24:14.6620544-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\treasurechest_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\goldchain.fbx</Source>
+      <Name>Models\goldchain</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\goldchain.xnb</Output>
+      <Time>2013-02-27T09:39:42-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\goldchain_0.xml</Key>
+        <Value>2013-03-13T20:24:15.4841014-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\gold_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\island.fbx</Source>
+      <Name>Models\island</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\island.xnb</Output>
+      <Time>2013-02-27T10:35:44-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\island_0.xml</Key>
+        <Value>2013-03-13T20:24:15.8521225-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\sand_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\rock.fbx</Source>
+      <Name>Models\rock</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\rock.xnb</Output>
+      <Time>2013-02-27T11:00:56-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\rock_0.xml</Key>
+        <Value>2013-03-13T20:24:16.3961536-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\rock_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bomb.fbx</Source>
+      <Name>Models\bomb</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\bomb.xnb</Output>
+      <Time>2013-02-28T10:03:05-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bomb_0.xml</Key>
+        <Value>2013-03-13T20:24:17.1071943-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\bomb_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\grog.fbx</Source>
+      <Name>Models\grog</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\grog.xnb</Output>
+      <Time>2013-03-01T08:38:05-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\grog_0.xml</Key>
+        <Value>2013-03-13T20:24:17.6872274-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\grog_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\snake.fbx</Source>
+      <Name>Models\snake</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\snake.xnb</Output>
+      <Time>2013-03-01T09:49:50-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\snake_0.xml</Key>
+        <Value>2013-03-13T20:24:18.3462651-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\snake_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\adrenaline.fbx</Source>
+      <Name>Models\adrenaline</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\adrenaline.xnb</Output>
+      <Time>2013-03-01T09:58:57-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\adrenaline_0.xml</Key>
+        <Value>2013-03-13T20:24:18.8722952-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\red_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\snake_dead.fbx</Source>
+      <Name>Models\snake_dead</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\snake_dead.xnb</Output>
+      <Time>2013-03-05T09:45:24-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\snake_dead_0.xml</Key>
+        <Value>2013-03-13T20:24:19.2323158-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\snake_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pistol.fbx</Source>
+      <Name>Models\pistol</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pistol.xnb</Output>
+      <Time>2013-03-06T17:06:40.5648849-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pistol_0.xml</Key>
+        <Value>2013-03-13T20:24:19.689342-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Request>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\grog_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pistolview.fbx</Source>
+      <Name>Models\pistolview</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pistolview.xnb</Output>
+      <Time>2013-03-06T20:10:47.7870196-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pistolview_0.xml</Key>
+        <Value>2013-03-13T20:24:21.3784386-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pistolview_fire.fbx</Source>
+      <Name>Models\pistolview_fire</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pistolview_fire.xnb</Output>
+      <Time>2013-03-06T22:09:55.9088688-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pistolview_fire_0.xml</Key>
+        <Value>2013-03-13T20:24:21.8314645-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pirate.fbx</Source>
+      <Name>Models\pirate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pirate.xnb</Output>
+      <Time>2013-03-08T08:00:20-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pirate_0.xml</Key>
+        <Value>2013-03-13T20:24:22.4294987-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pirate_pistol.fbx</Source>
+      <Name>Models\pirate_pistol</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pirate_pistol.xnb</Output>
+      <Time>2013-03-08T08:18:58-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pirate_pistol_0.xml</Key>
+        <Value>2013-03-13T20:24:23.4805588-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Request>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pirate_walk.fbx</Source>
+      <Name>Models\pirate_walk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pirate_walk.xnb</Output>
+      <Time>2013-03-12T00:13:44.3667535-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pirate_walk_0.xml</Key>
+        <Value>2013-03-13T20:24:25.0496486-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pirate_idle.fbx</Source>
+      <Name>Models\pirate_idle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pirate_idle.xnb</Output>
+      <Time>2013-03-12T00:32:11.0660531-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pirate_idle_0.xml</Key>
+        <Value>2013-03-13T20:24:25.6456826-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pirate_pistol_idle.fbx</Source>
+      <Name>Models\pirate_pistol_idle</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pirate_pistol_idle.xnb</Output>
+      <Time>2013-03-12T00:33:13.5036243-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pirate_pistol_idle_0.xml</Key>
+        <Value>2013-03-13T20:24:26.2897195-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Request>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pirate_pistol_walk.fbx</Source>
+      <Name>Models\pirate_pistol_walk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\pirate_pistol_walk.xnb</Output>
+      <Time>2013-03-12T00:58:18.7877216-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\pirate_pistol_walk_0.xml</Key>
+        <Value>2013-03-13T20:24:28.3468371-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Request>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\1851navy_view.fbx</Source>
+      <Name>Models\1851navy_view</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\1851navy_view.xnb</Output>
+      <Time>2013-03-13T20:32:26.1151639-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\1851navy_view_0.xml</Key>
+        <Value>2013-03-13T20:32:39.4399261-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\revolver_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\cube10uR.x</Source>
+      <Name>Models\cube10uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\cube10uR.xnb</Output>
+      <Time>2010-08-26T16:57:45-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\cube10uR_0.xml</Key>
+        <Value>2013-03-13T20:24:29.2838907-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\BarrierBlue_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Name>Models\ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\ground.xnb</Output>
+      <Time>2012-01-30T19:04:49-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ground_0.xml</Key>
+        <Value>2013-03-13T20:24:29.9099265-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\ground_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\skySphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\skySphere_0.xml</Output>
+      <Time>2013-02-22T08:52:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\skydome.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\skydome_0.xnb</Output>
+      <Time>2013-02-20T10:07:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ocean.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ocean_0.xml</Output>
+      <Time>2013-02-22T08:56:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\ocean.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\ocean_0.xnb</Output>
+      <Time>2013-02-22T08:08:13-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\palmtree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\palmtree_0.xml</Output>
+      <Time>2013-02-22T09:31:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\palmtree.dds</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\palmtree_0.xnb</Output>
+      <Time>2013-02-22T09:19:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\coin.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\coin_0.xml</Output>
+      <Time>2013-02-26T09:11:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\Coin.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\Coin_0.xnb</Output>
+      <Time>2013-02-26T08:55:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\diamond.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\diamond_0.xml</Output>
+      <Time>2013-02-26T09:55:03-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\diamond.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\diamond_0.xnb</Output>
+      <Time>2013-02-26T09:49:29-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\treasurechest.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\treasurechest_0.xml</Output>
+      <Time>2013-02-26T10:19:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\treasurechest.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\treasurechest_0.xnb</Output>
+      <Time>2013-02-26T10:09:01-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\goldchain.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\goldchain_0.xml</Output>
+      <Time>2013-02-27T09:39:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gold.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\gold_0.xnb</Output>
+      <Time>2013-02-27T09:36:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\island.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\island_0.xml</Output>
+      <Time>2013-02-27T10:35:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\sand.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\sand_0.xnb</Output>
+      <Time>2013-02-27T10:32:25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\rock.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\rock_0.xml</Output>
+      <Time>2013-02-27T11:00:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\rock.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\rock_0.xnb</Output>
+      <Time>2013-02-27T10:58:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bomb.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bomb_0.xml</Output>
+      <Time>2013-02-28T10:03:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\bomb.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\bomb_0.xnb</Output>
+      <Time>2013-02-28T09:58:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\grog.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\grog_0.xml</Output>
+      <Time>2013-03-01T08:38:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\grog.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\grog_0.xnb</Output>
+      <Time>2013-03-01T08:30:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\snake.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\snake_0.xml</Output>
+      <Time>2013-03-01T09:49:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\snake.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\snake_0.xnb</Output>
+      <Time>2013-03-01T09:24:21-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\adrenaline.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\adrenaline_0.xml</Output>
+      <Time>2013-03-01T09:58:57-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\red.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\red_0.xnb</Output>
+      <Time>2013-03-01T09:55:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\snake_dead.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\snake_dead_0.xml</Output>
+      <Time>2013-03-05T09:45:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pistol.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pistol_0.xml</Output>
+      <Time>2013-03-06T17:06:40.5648849-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pistol.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pistol_0.xnb</Output>
+      <Time>2013-03-06T16:35:04.9624626-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pistolview.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pistolview_0.xml</Output>
+      <Time>2013-03-06T20:10:47.7870196-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pistolview_fire.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pistolview_fire_0.xml</Output>
+      <Time>2013-03-06T22:09:55.9088688-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pirate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pirate_0.xml</Output>
+      <Time>2013-03-08T08:00:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pirate.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\pirate_0.xnb</Output>
+      <Time>2013-03-08T07:26:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pirate_pistol.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pirate_pistol_0.xml</Output>
+      <Time>2013-03-08T08:18:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pirate_walk.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pirate_walk_0.xml</Output>
+      <Time>2013-03-12T00:13:44.3667535-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pirate_idle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pirate_idle_0.xml</Output>
+      <Time>2013-03-12T00:32:11.0660531-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pirate_pistol_idle.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pirate_pistol_idle_0.xml</Output>
+      <Time>2013-03-12T00:33:13.5036243-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pirate_pistol_walk.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\pirate_pistol_walk_0.xml</Output>
+      <Time>2013-03-12T00:58:18.7877216-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\1851navy_view.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\1851navy_view_0.xml</Output>
+      <Time>2013-03-13T20:32:26.1151639-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cube10uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\cube10uR_0.xml</Output>
+      <Time>2010-08-26T16:57:45-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BarrierBlue.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\BarrierBlue_0.xnb</Output>
+      <Time>2010-08-26T16:57:45-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ground_0.xml</Output>
+      <Time>2012-01-30T19:04:49-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\ground_0.xnb</Output>
+      <Time>2012-01-30T19:02:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\revolver.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\revolver_0.xnb</Output>
+      <Time>2013-03-16T14:51:54.8817264-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\1851navy_view_fire.fbx</Source>
+      <Name>Models\1851navy_view_fire</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\1851navy_view_fire.xnb</Output>
+      <Time>2013-03-13T20:36:09.5069412-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\1851navy_view_fire_0.xml</Key>
+        <Value>2013-03-13T20:36:43.8629063-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\revolver_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\1851navy_view_fire.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\1851navy_view_fire_0.xml</Output>
+      <Time>2013-03-13T20:36:09.5069412-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\1851navy.fbx</Source>
+      <Name>Models\1851navy</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\1851navy.xnb</Output>
+      <Time>2013-03-13T23:12:58.953366-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\1851navy_0.xml</Key>
+        <Value>2013-03-13T23:14:08.0263167-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\revolver_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\1851navy.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\1851navy_0.xml</Output>
+      <Time>2013-03-13T23:12:58.953366-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\1851navy_view_cock.fbx</Source>
+      <Name>Models\1851navy_view_cock</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\Models\1851navy_view_cock.xnb</Output>
+      <Time>2013-03-15T20:26:52.807103-04:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\1851navy_view_cock_0.xml</Key>
+        <Value>2013-03-15T20:27:36.28859-04:00</Value>
+      </Dependency>
+      <Request>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\textures\revolver_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\1851navy_view_cock.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\1851navy_view_cock_0.xml</Output>
+      <Time>2013-03-15T20:26:52.807103-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBootyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Brett\Documents\PreciousBooty\PreciousBooty\PreciousBooty\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-06-11T17:34:27.2548835-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
